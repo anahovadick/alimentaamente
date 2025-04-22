@@ -1,0 +1,12 @@
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+Você tem permissão para compartilhar e adaptar este material para fins não comerciais, desde que atribua os devidos créditos à autora.
+
+Este repositório disponibiliza gratuitamente todos os componentes necessários para utilizar o jogo "AlimentaAMente", incluindo tabuleiro, avatares, cartas, materiais de apoio e orientações de uso.
+
+Autora: Ana Carolina de Andrade Hovadick
+Ano: 2025
+
+Texto completo da licença: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+Resumo em português: https://creativecommons.org/licenses/by-nc/4.0/deed.pt
